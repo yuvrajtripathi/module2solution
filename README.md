@@ -1,1 +1,1 @@
-this is the solution of assignmnet given in module 2
+this is the solution of assignment given in module 2
